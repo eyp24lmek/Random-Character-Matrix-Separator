@@ -28,6 +28,7 @@ Run the Script:
     Run the script to generate and separate the random character matrix.
 
 Original 6x6 Matrix:
+
     'x'   '2'   'g'   '8'   'm'   '4'  
     '5'   'a'   '3'   't'   'z'   'y'  
     '1'   '7'   'h'   'b'   'n'   'c'  
@@ -35,19 +36,32 @@ Original 6x6 Matrix:
     'q'   'r'   '0'   's'   'l'   'u'  
     'd'   'w'   'v'   'j'   'k'   'i'  
 
-Numbers Matrix:
-   '2'   '8'   '4'  
-   '5'   '3'   '1'  
-   '7'   '9'   '0'  
-   '6'     
 
-Letters Matrix:
+
+Number Matrix:
+
+    '2'   '8'   '4'  
+    '5'   '3'   '1'  
+    '7'   '9'   '0'  
+    '6'       
+
+Letter Matrix:
+
     'x'   'g'   'm'   'a'  
     't'   'z'   'y'   'h'  
     'b'   'n'   'c'   'o'  
     'p'   'e'   'f'   'q'  
     'r'   's'   'l'   'u'  
-    'd'   'w'   'v'   'j' 
+    'd'   'w'   'v'   'j'  
+
+
+
+
+
+
+
+    
+
 
 
 
