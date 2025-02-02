@@ -24,7 +24,6 @@ Requirements:
 Run the Script:
 
     Open MATLAB.
-    Copy and paste the script into a new .m file.
     Run the script to generate and separate the random character matrix.
 
 Original 6x6 Matrix:
